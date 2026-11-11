@@ -10,4 +10,4 @@ Activities Performed:
    - Transmitted 179 packets during the connectivity test.
 
 Screenshots:  
-![Pwnbox Ping Connectivity](./pwnbox-ping-connectivity.png)
+![Pwnbox Ping Connectivity](../pwnbox-ping-connectivity.png)
